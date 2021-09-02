@@ -1,3 +1,7 @@
 #card-shadow {
     box-shadow: 7px 7px 20px black;
 }
+
+.f-item {
+    color: aqua;
+}
